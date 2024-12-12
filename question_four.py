@@ -9,7 +9,7 @@
 # while an object is an instance of a class
 
 
-#4(ii)
+#4(ii)python program that counts the occurrances of each word.??
 
 
 #4(iii) Python function that takes 2 parameters (a and b) & returns their sum
